@@ -1,2 +1,2 @@
 # JavaScript-1
-Read me added
+-needs to be updated in the future
